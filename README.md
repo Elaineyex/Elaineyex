@@ -2,7 +2,7 @@
 
 - 👩‍💻 I enjoy statistics and the process of turning complex problems into hypotheses that can be explored and tested with data. Not everything needs a transformer.
 - 🐧 I have a Master's degree in Health Data Science and a Bachelor's degree in Statistical & Data Sciences and Psychology.
-- 📖 I am periodically updating my personal website here: elaineyex.github.io 
+- 📖 I am periodically updating my personal website here: [elaineyex.github.io](https://elaineyex.github.io/)
 <!--
 **Elaineyex/Elaineyex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
